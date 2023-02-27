@@ -4,7 +4,7 @@ import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 import Shortimg from './shortimg'
 import Collection from './collection'
-import Expensive from './Expensive'
+import Expensive from './expensive'
 import Blogger from './blogger'
 import Marquee from 'react-fast-marquee'
 import Favour from './favour'
